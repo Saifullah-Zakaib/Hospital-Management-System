@@ -1,5 +1,5 @@
-🏥 Hospital Management System (C++)
-📌 Description
+#Hospital Management System (C++)
+#Description
 This is a console-based Hospital Management System written in C++. It helps to manage and organize hospital operations such as:
 
 Managing Doctors and Patients
@@ -12,7 +12,7 @@ Simple User Authentication System
 
 The code utilizes Object-Oriented Programming concepts like inheritance, encapsulation, and polymorphism, with a focus on clean design using classes such as Person, Patient, Doctor, Date_Time, Appointment, and Hospital.
 
-📁 Features
+Features
 👩‍⚕️ Add and view doctors with specialization.
 
 🧑‍⚕️ Add and view patients with detailed records.
